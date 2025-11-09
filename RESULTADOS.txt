@@ -1,0 +1,6 @@
+RESULTADOS — corrida de ejemplo
+Mejor aptitud: 51.038182
+Mejores genes: [2.1191 7.9249 7.9247 7.9293 8.0233 7.9289 2.1949 7.9749]
+Primer valor histórico: 27.949976
+Último valor histórico: 51.038182
+Longitud del historial: 61
